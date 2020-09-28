@@ -1,0 +1,17 @@
+{
+    "Margaret":{
+        "name":"Margaret E.",
+        "blurb": "\"This is fantastic! Thanks so much guys!\""
+    },
+
+    "Fred":{
+        "name":"Fred S.",
+        "blurb": "\"Bootstrap is amazing. I've been using it to create lots of super nice landing pages.\""
+    },
+    
+    "Sarah":{
+        "name":"Sarah W.",
+        "blurb": "\"Thanks so much for making these free resources available to us!\""
+    }
+
+}
