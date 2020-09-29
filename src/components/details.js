@@ -1,5 +1,4 @@
 import React from 'react';
-// import Image from '../assets/logo192.png';
 
 export default class Detail extends React.Component {
 

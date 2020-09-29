@@ -1,5 +1,4 @@
 import React from 'react';
-// import './App.css';
 import './landingpage.css'
 import SignUpComponent from './components/signupcomponent'
 import Feature from "./components/features"
